@@ -1,3 +1,4 @@
+#/usr/bin/env python2.7
 #coding: utf8
 
 __version__ = '0.6'
